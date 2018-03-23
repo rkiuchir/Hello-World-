@@ -1,2 +1,2 @@
-# Hello World
-This is the first repository
+# PlotSaudi
+Make figures for GMPE project in Saudi Arabia
